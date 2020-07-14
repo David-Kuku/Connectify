@@ -50,7 +50,7 @@ class App extends Component {
     
     return (
       <div className="App" style={{height:'100%'}}>
-        <Router>
+        <Router basename ={window.location.pathname || ''}>
         <Switch>
         
           
