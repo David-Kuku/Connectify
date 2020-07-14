@@ -1,0 +1,67 @@
+.btn-pri{
+    background-color: rgba(0,0,0,0.9);
+    height: 30px;
+    color: white;
+    border: 1px;
+    
+}
+#btt{
+    background-color: black;
+}
+#horizon{
+    background-color: black;
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-top: 20px;
+}
+
+  .no-suggestions {
+    color: #999;
+    padding: 0.5rem;
+  }
+.suggestions {
+    border: 1px solid #999;
+    border-top-width: 0;
+    list-style: none;
+    margin-top: 0;
+    max-height: 160px;
+    overflow-y: auto;
+    padding-left: 0;
+    width: calc(300px + 1rem);
+  }
+  
+  .suggestions li {
+    padding: 0.5rem;
+  }
+  
+  .suggestion-active,
+  .suggestions li:hover {
+    background-color: rgba(0,0,255,0.3);
+    color:black;
+    cursor: pointer;
+    font-weight: 700;
+  }
+  
+  .suggestions li:not(:last-of-type) {
+    border-bottom: 1px solid #999;
+  }
+  
+@media only screen and (max-width: 767px){
+      .sugg{
+        margin-left: 6%;
+        background-color: white;
+        width: 100%;
+      }
+  }
+
+  @media only screen and (max-width: 385px){
+    
+    .suggestions{
+        width: 250px;
+    }
+}
+@media only screen and (min-width: 768px){
+    .sugg{
+        margin-left: 10%;
+    }
+}
