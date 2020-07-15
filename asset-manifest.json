@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.ce5d2223.chunk.css",
-    "main.js": "/static/js/main.9e7b98d8.chunk.js",
-    "main.js.map": "/static/js/main.9e7b98d8.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.1e3ecfa2.js",
-    "runtime-main.js.map": "/static/js/runtime-main.1e3ecfa2.js.map",
-    "static/css/2.72ac6e1d.chunk.css": "/static/css/2.72ac6e1d.chunk.css",
-    "static/js/2.4e3e6752.chunk.js": "/static/js/2.4e3e6752.chunk.js",
-    "static/js/2.4e3e6752.chunk.js.map": "/static/js/2.4e3e6752.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.bf894376fede8b1f6dac2787e6575f9a.js": "/precache-manifest.bf894376fede8b1f6dac2787e6575f9a.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.72ac6e1d.chunk.css.map": "/static/css/2.72ac6e1d.chunk.css.map",
-    "static/css/main.ce5d2223.chunk.css.map": "/static/css/main.ce5d2223.chunk.css.map",
-    "static/js/2.4e3e6752.chunk.js.LICENSE.txt": "/static/js/2.4e3e6752.chunk.js.LICENSE.txt",
-    "static/media/automobile.css": "/static/media/auto1.474b7a6d.jpg"
+    "main.css": "/Connectify/static/css/main.dde59c10.chunk.css",
+    "main.js": "/Connectify/static/js/main.669602ab.chunk.js",
+    "main.js.map": "/Connectify/static/js/main.669602ab.chunk.js.map",
+    "runtime-main.js": "/Connectify/static/js/runtime-main.d1d349cd.js",
+    "runtime-main.js.map": "/Connectify/static/js/runtime-main.d1d349cd.js.map",
+    "static/css/2.72ac6e1d.chunk.css": "/Connectify/static/css/2.72ac6e1d.chunk.css",
+    "static/js/2.d0d55da0.chunk.js": "/Connectify/static/js/2.d0d55da0.chunk.js",
+    "static/js/2.d0d55da0.chunk.js.map": "/Connectify/static/js/2.d0d55da0.chunk.js.map",
+    "index.html": "/Connectify/index.html",
+    "precache-manifest.3b1a22f1e2c68dfffad0217e039d9a70.js": "/Connectify/precache-manifest.3b1a22f1e2c68dfffad0217e039d9a70.js",
+    "service-worker.js": "/Connectify/service-worker.js",
+    "static/css/2.72ac6e1d.chunk.css.map": "/Connectify/static/css/2.72ac6e1d.chunk.css.map",
+    "static/css/main.dde59c10.chunk.css.map": "/Connectify/static/css/main.dde59c10.chunk.css.map",
+    "static/js/2.d0d55da0.chunk.js.LICENSE.txt": "/Connectify/static/js/2.d0d55da0.chunk.js.LICENSE.txt",
+    "static/media/automobile.css": "/Connectify/static/media/auto1.474b7a6d.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.1e3ecfa2.js",
+    "static/js/runtime-main.d1d349cd.js",
     "static/css/2.72ac6e1d.chunk.css",
-    "static/js/2.4e3e6752.chunk.js",
-    "static/css/main.ce5d2223.chunk.css",
-    "static/js/main.9e7b98d8.chunk.js"
+    "static/js/2.d0d55da0.chunk.js",
+    "static/css/main.dde59c10.chunk.css",
+    "static/js/main.669602ab.chunk.js"
   ]
 }
