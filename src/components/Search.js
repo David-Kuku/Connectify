@@ -185,7 +185,7 @@ onClick = e => {
         </div>
         
             <div className='col-md-6' style={{position:'relative',zIndex:0}}>
-                <img src="undraw_business_deal_cpi9.SVG" alt='' style={{height:'auto', width:'400px'}}/>
+                <img src="undraw_business_deal_cpi9.jpg" alt='' style={{height:'auto', width:'400px'}}/>
             </div>
         
     </div>
