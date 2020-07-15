@@ -1,5 +1,6 @@
 {
   "name": "connectify",
+  "homepage":"https://david-kuku.github.io/Connectify",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
