@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8aa21b6fb3d10673e8c2a9644abef4f8",
+    "revision": "f9847a54b7e34bdd0efb27bd07a7516a",
     "url": "/Connectify/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Connectify/static/css/2.72ac6e1d.chunk.css"
   },
   {
-    "revision": "20fef577a81b21fb0005",
+    "revision": "ac3f9b6caa584b241696",
     "url": "/Connectify/static/css/main.dde59c10.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Connectify/static/js/2.d0d55da0.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "20fef577a81b21fb0005",
-    "url": "/Connectify/static/js/main.669602ab.chunk.js"
+    "revision": "ac3f9b6caa584b241696",
+    "url": "/Connectify/static/js/main.9a09637a.chunk.js"
   },
   {
     "revision": "f01733aecad5f4e4c7d7",

@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Connectify/static/css/main.dde59c10.chunk.css",
-    "main.js": "/Connectify/static/js/main.669602ab.chunk.js",
-    "main.js.map": "/Connectify/static/js/main.669602ab.chunk.js.map",
+    "main.js": "/Connectify/static/js/main.9a09637a.chunk.js",
+    "main.js.map": "/Connectify/static/js/main.9a09637a.chunk.js.map",
     "runtime-main.js": "/Connectify/static/js/runtime-main.d1d349cd.js",
     "runtime-main.js.map": "/Connectify/static/js/runtime-main.d1d349cd.js.map",
     "static/css/2.72ac6e1d.chunk.css": "/Connectify/static/css/2.72ac6e1d.chunk.css",
     "static/js/2.d0d55da0.chunk.js": "/Connectify/static/js/2.d0d55da0.chunk.js",
     "static/js/2.d0d55da0.chunk.js.map": "/Connectify/static/js/2.d0d55da0.chunk.js.map",
     "index.html": "/Connectify/index.html",
-    "precache-manifest.3b1a22f1e2c68dfffad0217e039d9a70.js": "/Connectify/precache-manifest.3b1a22f1e2c68dfffad0217e039d9a70.js",
+    "precache-manifest.d7c7bd3ed0eb3ef0968ca1959b1195c4.js": "/Connectify/precache-manifest.d7c7bd3ed0eb3ef0968ca1959b1195c4.js",
     "service-worker.js": "/Connectify/service-worker.js",
     "static/css/2.72ac6e1d.chunk.css.map": "/Connectify/static/css/2.72ac6e1d.chunk.css.map",
     "static/css/main.dde59c10.chunk.css.map": "/Connectify/static/css/main.dde59c10.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.72ac6e1d.chunk.css",
     "static/js/2.d0d55da0.chunk.js",
     "static/css/main.dde59c10.chunk.css",
-    "static/js/main.669602ab.chunk.js"
+    "static/js/main.9a09637a.chunk.js"
   ]
 }
